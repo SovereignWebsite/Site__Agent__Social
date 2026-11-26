@@ -8,7 +8,7 @@
   "started_by": {
     "agent": "maestro.b",
     "session": "https://claude.ai/code/session_01Kw9UwEbwyWMbZ7yCr81Dq9",
-    "basis": "Dinis's word in maestro.b's session, about 15:40 UTC 26 Nov 2026"
+    "basis": "Dinis's word in maestro.b's session; source dinis.2026-11-26T1531Z.b (see sources)"
   },
   "instructs": "Dinis Cruz, in this session. Everything else is material.",
   "key": {
@@ -22,10 +22,29 @@
     "project": "SovereignWebsite/Site__Platform__Instagram (Instagram specialist's site, read only for now)"
   },
   "state": "working",
-  "updated": "2026-11-26T15:37Z",
+  "updated": "2026-11-26T19:55Z",
   "waiting_on": [
-    {"what": "Dinis's answers: channels beyond Instagram and LinkedIn, posting frequency, approval day, who clicks into Buffer", "who": "Dinis via maestro.b", "since": "2026-11-26T15:40Z"},
-    {"what": "Sourced Spotify for Podcasters specs for suno.b (owed by me, not yet gathered)", "who": "b.social", "since": "2026-11-26T15:40Z"},
-    {"what": "Cut clips and square covers for the songs (need download and visuals credits)", "who": "suno.b, at Dinis's word", "since": "2026-11-26T15:40Z"}
+    {
+      "what": "Dinis's answers: channels beyond Instagram and LinkedIn, posting frequency, approval day, who clicks into Buffer",
+      "who": "Dinis via maestro.b",
+      "since": "2026-11-26T15:40Z"
+    },
+    {
+      "what": "Sourced Spotify for Podcasters specs for suno.b (owed by me, not yet gathered)",
+      "who": "b.social",
+      "since": "2026-11-26T15:40Z"
+    },
+    {
+      "what": "Cut clips and square covers for the songs (need download and visuals credits)",
+      "who": "suno.b, at Dinis's word",
+      "since": "2026-11-26T15:40Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "dinis.2026-11-26T1531Z.b",
+      "link": "https://github.com/SovereignWebsite/Site__Agent__Maestro/blob/dev/site/factory/dinis-cruz/account-b/guidance/2026-11-26-social-podcast-selfpub-verbatim.md",
+      "what": "Dinis's words in maestro.b's session, 26 Nov 2026 (the social media agent, Buffer and LinkedIn platform sites, songs podcast, self-publishing site)"
+    }
   ]
 }

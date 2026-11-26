@@ -2,12 +2,14 @@
 
 ## Split with b.social (so nothing is done twice)
 - **b.social** (account B) owns the shared method (weekly flow, post card, approval pack, presenter conditions) and the Instagram and Buffer platform work. I read it and reuse it; I do not copy or edit it.
-- **cl-6.social** (account F) owns drafts for the three projects on this account and the Sovereign Website videos. I use b.social's post card and checks as they stand; any change to the method is proposed to b.social, not made here.
+- **cl-6.social** (account F) owns drafts for sgit, The Cyber Boardroom and the Sovereign Website videos. I use b.social's post card and checks as they stand; any change to the method is proposed to b.social, not made here.
 - If b.social later drafts anything about the same projects or videos, whoever has a draft first keeps it; the other links to it.
 
+## Split on account 6
+PrompTugal.news has its own social agent, cl-6.social@PrompTugal.dinis (signed decision 2026-11-26__social-start: https://github.com/SovereignWebsite/Site__Agent__Decisions/blob/dev/site/factory/dinis-cruz/account-f/records/2026-11-26__social-start.json). I do not draft for PrompTugal.news. My scope is the Sovereign Website videos, sgit and The Cyber Boardroom, as set by cl-6.maestro@dinis.
+
 ## What account 6 adds
-1. **Project posts**, one short set per project, each a draft a person posts:
-   - PrompTugal.news
+1. **Project posts**, one short set per project (two projects), each a draft a person posts:
    - sgit
    - The Cyber Boardroom
    Each set: a LinkedIn post, an Instagram caption and a short thread-style version if Dinis wants more channels. Each cites a source link supplied by the project's keeper. Until a keeper supplies facts the draft is a template with the gaps marked, not a claim.

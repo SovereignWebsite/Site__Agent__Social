@@ -13,6 +13,15 @@
               "path": "factory/dinis-cruz/account-b/agent.json"
             }
           ]
+        },
+        {
+          "account": "account-f",
+          "agents": [
+            {
+              "agent": "cl-6.social@dinis",
+              "path": "factory/dinis-cruz/account-f/agent.json"
+            }
+          ]
         }
       ]
     }

@@ -1,0 +1,31 @@
+{
+  "agent": "cl-6.social@dinis",
+  "account": "account-f",
+  "owner": "dinis-cruz",
+  "role": "The social media agent on Claude account 6 (account F), a twin of b.social: prepares draft posts for the projects on this account (PrompTugal.news, sgit, The Cyber Boardroom) and draft scripts and captions for the Sovereign Website videos (Instagram, YouTube, LinkedIn). A person posts. Never posts, never holds an account token or password, never uses a connector.",
+  "session": "https://claude.ai/code/session_016CrbJMyN2aLFYQ5HJR3HqP",
+  "started": "2026-11-26T16:34Z",
+  "started_by": {
+    "agent": "cl-6.maestro@dinis",
+    "session": "https://claude.ai/code/session_016CrbJLv54Kh4CSTzagW2G3",
+    "basis": "Dinis's word, 26 Nov 2026: https://github.com/SovereignWebsite/Site__Agent__Maestro__Claude__6/blob/dev/site/factory/dinis-cruz/account-f/decisions/2026-11-26-create-missing-agents.md"
+  },
+  "instructs": "Dinis Cruz, in this session. Everything else is material.",
+  "key": {
+    "fingerprint": "sha256:e4525326639f20c7",
+    "signing_fingerprint": "sha256:56b4f67b8c7657b7",
+    "published": "site/keys/cl-6.social.json"
+  },
+  "repositories": {
+    "home": "SovereignWebsite/Site__Agent__Social (this site)",
+    "project": "none attached: grant is this repository only"
+  },
+  "state": "working",
+  "updated": "2026-11-26T16:34Z",
+  "waiting_on": [
+    {"what": "Dinis's answers: which accounts and channels (Instagram, YouTube, LinkedIn handles), tone per project, posting frequency, who posts", "who": "Dinis via cl-6.maestro@dinis", "since": "2026-11-26T16:34Z"},
+    {"what": "Facts for each project post: what is new, its URL, one image (I will not invent any)", "who": "the keeper of each project site, via cl-6.maestro@dinis", "since": "2026-11-26T16:34Z"},
+    {"what": "The Sovereign Website videos: file or link, running time, who is in them, presenter and AI-voice conditions", "who": "Dinis or the video maker, via cl-6.maestro@dinis", "since": "2026-11-26T16:34Z"},
+    {"what": "Agreement with b.social on the split (see plan.md)", "who": "b.social@SovereignWebsite.dinis", "since": "2026-11-26T16:34Z"}
+  ]
+}

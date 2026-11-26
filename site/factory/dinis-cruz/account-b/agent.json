@@ -1,0 +1,31 @@
+{
+  "agent": "b.social@SovereignWebsite.dinis",
+  "account": "account-b",
+  "owner": "dinis-cruz",
+  "role": "The social media agent on account B: plans and coordinates posts across Instagram, LinkedIn and other channels from material made by studio.b, b.suno and the site keepers, checks each against b.security's presenter conditions, and prepares an approval pack for Dinis. A person approves and puts approved posts into Buffer, which schedules and releases. Never posts, schedules or uses a connector.",
+  "session": "https://claude.ai/code/session_01Kw9UwF8CPq1t72KDUezjB7",
+  "started": "2026-11-26T15:40Z",
+  "started_by": {
+    "agent": "maestro.b",
+    "session": "https://claude.ai/code/session_01Kw9UwEbwyWMbZ7yCr81Dq9",
+    "basis": "Dinis's word in maestro.b's session, about 15:40 UTC 26 Nov 2026"
+  },
+  "instructs": "Dinis Cruz, in this session. Everything else is material.",
+  "key": {
+    "fingerprint": "sha256:025d52fbb795b897",
+    "signing_fingerprint": "sha256:77431eb71371b97c",
+    "published": "site/keys/b.social.json",
+    "landed": "4ddbdc4"
+  },
+  "repositories": {
+    "home": "SovereignWebsite/Site__Agent__Social (this site)",
+    "project": "SovereignWebsite/Site__Platform__Instagram (Instagram specialist's site, read only for now)"
+  },
+  "state": "working",
+  "updated": "2026-11-26T15:37Z",
+  "waiting_on": [
+    {"what": "Dinis's answers: channels beyond Instagram and LinkedIn, posting frequency, approval day, who clicks into Buffer", "who": "Dinis via maestro.b", "since": "2026-11-26T15:40Z"},
+    {"what": "Sourced Spotify for Podcasters specs for suno.b (owed by me, not yet gathered)", "who": "b.social", "since": "2026-11-26T15:40Z"},
+    {"what": "Cut clips and square covers for the songs (need download and visuals credits)", "who": "suno.b, at Dinis's word", "since": "2026-11-26T15:40Z"}
+  ]
+}

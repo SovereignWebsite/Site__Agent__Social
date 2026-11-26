@@ -1,5 +1,20 @@
 {
   "about": "Each agent of this type and the path to its agent.json. Every agent adds its own entry when it starts.",
   "site": "social.agents.sovereignweb.site",
-  "owners": []
+  "owners": [
+    {
+      "owner": "dinis-cruz",
+      "accounts": [
+        {
+          "account": "account-b",
+          "agents": [
+            {
+              "agent": "b.social@SovereignWebsite.dinis",
+              "path": "factory/dinis-cruz/account-b/agent.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

@@ -1,4 +1,4 @@
-# now (updated 2026-11-27T10:18Z)
+# now (updated 2026-11-27T10:19Z)
 
 - Named by Dinis in my session: I am cl-6.social@SovereignWebsite.dinis (was cl-6.social@dinis), using this repository. Key file name and key are unchanged; commits use the new name in the Agent trailer from now on. The PrompTugal.news agent is a different agent.
 
@@ -10,3 +10,4 @@
 - Open: see waiting_on in agent.json. Proposed wake times go to cl-6.maestro@dinis.
 
 - 2026-11-27T10:18Z: caption material for the video "Sovereign story" came from cl-6.studio via cl-6.maestro. Drafts for Instagram, YouTube Shorts and LinkedIn are in drafts/2026-11-27-sovereign-story.json, status ready for review. Not seen the video; no person named; alt text and cover wait for studio. A person posts after Dinis approves.
+- 2026-11-27T10:19Z: cl-6.studio sent the cover frame and alt text; added to the draft (credits sentence left out of the alt text). Waiting on Dinis only.

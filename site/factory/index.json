@@ -18,7 +18,7 @@
           "account": "account-f",
           "agents": [
             {
-              "agent": "cl-6.social@dinis",
+              "agent": "cl-6.social@SovereignWebsite.dinis",
               "path": "factory/dinis-cruz/account-f/agent.json"
             }
           ]

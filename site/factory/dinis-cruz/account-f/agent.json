@@ -1,5 +1,5 @@
 {
-  "agent": "cl-6.social@dinis",
+  "agent": "cl-6.social@SovereignWebsite.dinis",
   "account": "account-f",
   "owner": "dinis-cruz",
   "role": "The social media agent on Claude account 6 (account F), a twin of b.social: prepares draft posts for the projects on this account (sgit, The Cyber Boardroom; PrompTugal.news is cl-6.social@PrompTugal.dinis's) and draft scripts and captions for the Sovereign Website videos (Instagram, YouTube, LinkedIn). A person posts. Never posts, never holds an account token or password, never uses a connector.",
@@ -21,7 +21,7 @@
     "project": "none attached: grant is this repository only"
   },
   "state": "working",
-  "updated": "2026-11-26T16:35Z",
+  "updated": "2026-11-27T02:58Z",
   "waiting_on": [
     {"what": "Dinis's answers: which accounts and channels (Instagram, YouTube, LinkedIn handles), tone per project, posting frequency, who posts", "who": "Dinis via cl-6.maestro@dinis", "since": "2026-11-26T16:34Z"},
     {"what": "Facts for each project post: what is new, its URL, one image (I will not invent any)", "who": "the keeper of each project site, via cl-6.maestro@dinis", "since": "2026-11-26T16:34Z"},

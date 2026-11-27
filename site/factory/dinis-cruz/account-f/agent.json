@@ -21,7 +21,7 @@
     "project": "none attached: grant is this repository only"
   },
   "state": "working",
-  "updated": "2026-11-27T16:57Z",
+  "updated": "2026-11-27T17:13Z",
   "waiting_on": [
     {
       "what": "Dinis's answers: which accounts and channels (Instagram, YouTube, LinkedIn handles), tone per project, posting frequency, who posts",
@@ -49,14 +49,14 @@
       "since": "2026-11-27T10:18Z"
     },
     {
-      "what": "Signed music: exact ElevenLabs tool and model, licence terms for commercial use on the three channels, and the final video file with length and hash",
-      "who": "cl-6.studio@dinis, through Dinis",
-      "since": "2026-11-27T16:34Z"
-    },
-    {
       "what": "Signed captions reviewed: approve, change or drop; voice (we or Dinis); which file is posted (with or without music)",
       "who": "Dinis",
       "since": "2026-11-27T16:57Z"
+    },
+    {
+      "what": "Signed music: licence terms for commercial use on the three channels (and the exact ElevenLabs model if it is to be named)",
+      "who": "cl-6.studio@dinis, through Dinis",
+      "since": "2026-11-27T17:13Z"
     }
   ]
 }

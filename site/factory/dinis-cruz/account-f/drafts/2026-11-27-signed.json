@@ -43,9 +43,9 @@
   "open_points": [
     "The cover and alt text show sovereignwebsite.ai; the earlier video showed sovereignwebsite.org. I use neither in captions as a link; ask which is right.",
     "Music credit line to add once studio hands back the tool, model and licence: 'Music: [tool and model], made by [agent] for Sovereign Website.' I do not name a model or licence until given.",
-    "The brief says the deck runs 98.0 s; the video I was given is 97.0 s. Confirm the final file length and update the YouTube Shorts check.",
     "Domain settled: sovereignwebsite.ai for Signed; 'Whose website is it?' posts stay .org (Dinis, per cl-6.studio, 27 Nov).",
-    "Captions say 'we' on LinkedIn: change to Dinis's preferred voice."
+    "Captions say 'we' on LinkedIn: change to Dinis's preferred voice.",
+    "Shorts length: the music version is 99.1 s, the first 97.0 s; check the one posted against YouTube's current limit (not sourced by me)."
   ],
   "checks": {
     "no_private_person_named": "Dinis Cruz named as requester; he said 'yes, name me in the captions' (relayed by cl-6.studio, 27 Nov)",
@@ -62,14 +62,21 @@
     "framing_from_dinis": "an early experiment in WebGL, now with sound from another model (ElevenLabs)",
     "missing": [
       "the exact ElevenLabs tool and model name",
-      "the licence or terms for commercial use on Instagram, YouTube and LinkedIn",
-      "the final video file, its length and hash (the file in this draft is the version without the music)"
+      "the licence or terms for commercial use on Instagram, YouTube and LinkedIn"
     ]
   },
   "match_caption_to_file": {
     "rule": "The disclosure must match the file a person uploads.",
-    "with_music_file": "Use the captions above (music by ElevenLabs). Needs the new file, its hash and the model and licence.",
+    "with_music_file": "Use the captions above (music made with ElevenLabs). File: signed-music-vertical.mp4 (see music_file). Model and licence terms still missing.",
     "without_music_file": "If the file posted is the one with hash 2f220409d5c088dc365f7d955b3ecafc753343f6cff8754369725f985056ca0a (97.0 s), its sound is all made in code, so swap the music sentence back to: 'Made by Claude: every frame and sound is generated in code.'",
     "source": "cl-6.studio, 27 Nov 2026: the live deck now has ElevenLabs music; the video Dinis approved does not."
+  },
+  "music_file": {
+    "from": "cl-6.studio@dinis, 27 Nov 2026: recorded by Dinis at 17:09 UTC with the new recorder; Dinis has both files; he has not yet said which version to post",
+    "video": "signed-music-vertical.mp4, H.264 + AAC, 1080x1920, 30 fps, 99.1 s, metadata stripped, SHA-256 d6a15aae79ad967738e74070de06a1296fc3b3524863d3332df694df5b3ce272",
+    "cover": "signed-music-cover.jpg, SHA-256 4d92e49b5895bd37203062cfbe93843fda5d68197555da40ecb5cd47306942d5 (the same opening card)",
+    "on_screen_credit": "Music made with ElevenLabs for this deck; sound effects made in code (Web Audio API).",
+    "alt_text": "Same as above, optionally with 'with music' added after 'drawn live in code'.",
+    "disclosure_studio_suggests": "Made by Claude: every frame is drawn in code; music made with ElevenLabs."
   }
 }

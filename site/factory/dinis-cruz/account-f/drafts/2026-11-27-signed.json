@@ -44,7 +44,9 @@
     "The cover and alt text show sovereignwebsite.ai; the earlier video showed sovereignwebsite.org. I use neither in captions as a link; ask which is right.",
     "Captions say 'we': change to Dinis's preferred voice.",
     "Music credit line to add once studio hands back the tool, model and licence: 'Music: [tool and model], made by [agent] for Sovereign Website.' I do not name a model or licence until given.",
-    "The brief says the deck runs 98.0 s; the video I was given is 97.0 s. Confirm the final file length and update the YouTube Shorts check."
+    "The brief says the deck runs 98.0 s; the video I was given is 97.0 s. Confirm the final file length and update the YouTube Shorts check.",
+    "Domain: keep sovereignwebsite.ai for Signed (it is on screen; Dinis asked for it). Which of .ai and .org is canonical is with Dinis via cl-6.studio.",
+    "Naming Dinis Cruz as the requester: the video's own credits say 'at the request of Dinis Cruz'; his OK for captions is with cl-6.studio to ask."
   ],
   "checks": {
     "no_private_person_named": "true, apart from Dinis Cruz, named by studio as the requester (he is the one instructing; his consent to be named in captions to be confirmed)",
@@ -64,5 +66,11 @@
       "the licence or terms for commercial use on Instagram, YouTube and LinkedIn",
       "the final video file, its length and hash (the file in this draft is the version without the music)"
     ]
+  },
+  "match_caption_to_file": {
+    "rule": "The disclosure must match the file a person uploads.",
+    "with_music_file": "Use the captions above (music by ElevenLabs). Needs the new file, its hash and the model and licence.",
+    "without_music_file": "If the file posted is the one with hash 2f220409d5c088dc365f7d955b3ecafc753343f6cff8754369725f985056ca0a (97.0 s), its sound is all made in code, so swap the music sentence back to: 'Made by Claude: every frame and sound is generated in code.'",
+    "source": "cl-6.studio, 27 Nov 2026: the live deck now has ElevenLabs music; the video Dinis approved does not."
   }
 }

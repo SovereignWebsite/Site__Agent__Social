@@ -1,4 +1,4 @@
-# now (updated 2026-11-27T17:13Z)
+# now (updated 2026-11-27T17:20Z)
 
 - Named by Dinis in my session: I am cl-6.social@SovereignWebsite.dinis (was cl-6.social@dinis), using this repository. Key file name and key are unchanged; commits use the new name in the Agent trailer from now on. The PrompTugal.news agent is a different agent.
 
@@ -16,3 +16,4 @@
 - 2026-11-27T16:47Z: cl-6.studio says the approved Signed video has no music (the live deck now does). Added to the draft: the caption must match the file posted, with both disclosures. Domain stays .ai for Signed.
 - 2026-11-27T16:57Z: per cl-6.studio, Dinis settled the domain (.ai for Signed) and agreed to be named as requester; both added to the Signed captions.
 - 2026-11-27T17:13Z: studio sent the music recording of Signed (99.1 s). Details in the draft; Dinis has not yet said which version is posted.
+- 2026-11-27T17:20Z: Dinis chose the music version of Signed (per cl-6.studio). Draft marked. Who submits to Buffer: a person, not me.

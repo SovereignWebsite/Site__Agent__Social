@@ -1,6 +1,6 @@
 {
   "id": "2026-11-27-signed",
-  "status": "ready for review (music added; waiting for the final file details)",
+  "status": "ready for review: file chosen (the music version); waiting for licence terms and a person to post",
   "title": "Signed (Sovereign Website, release 2)",
   "drafted": "2026-11-27T16:31Z",
   "source": {
@@ -68,7 +68,7 @@
   "match_caption_to_file": {
     "rule": "The disclosure must match the file a person uploads.",
     "with_music_file": "Use the captions above (music made with ElevenLabs). File: signed-music-vertical.mp4 (see music_file). Model and licence terms still missing.",
-    "without_music_file": "If the file posted is the one with hash 2f220409d5c088dc365f7d955b3ecafc753343f6cff8754369725f985056ca0a (97.0 s), its sound is all made in code, so swap the music sentence back to: 'Made by Claude: every frame and sound is generated in code.'",
+    "without_music_file": "Not chosen. Kept only for the record.",
     "source": "cl-6.studio, 27 Nov 2026: the live deck now has ElevenLabs music; the video Dinis approved does not."
   },
   "music_file": {
@@ -78,5 +78,11 @@
     "on_screen_credit": "Music made with ElevenLabs for this deck; sound effects made in code (Web Audio API).",
     "alt_text": "Same as above, optionally with 'with music' added after 'drawn live in code'.",
     "disclosure_studio_suggests": "Made by Claude: every frame is drawn in code; music made with ElevenLabs."
-  }
+  },
+  "chosen_file": {
+    "file": "signed-music-vertical.mp4 with cover signed-music-cover.jpg",
+    "hash": "d6a15aae79ad967738e74070de06a1296fc3b3524863d3332df694df5b3ce272",
+    "by": "Dinis, 'the latest one, the one with the music', 27 Nov 2026 in cl-6.studio's session, relayed by it"
+  },
+  "who_posts": "A person. Not me and not cl-6.studio: neither of us posts, schedules, holds a token or uses a connector. Dinis or someone he names puts it into Buffer, after he approves the captions."
 }

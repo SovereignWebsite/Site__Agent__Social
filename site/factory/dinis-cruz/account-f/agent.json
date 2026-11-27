@@ -21,7 +21,7 @@
     "project": "none attached: grant is this repository only"
   },
   "state": "working",
-  "updated": "2026-11-27T10:19Z",
+  "updated": "2026-11-27T16:31Z",
   "waiting_on": [
     {
       "what": "Dinis's answers: which accounts and channels (Instagram, YouTube, LinkedIn handles), tone per project, posting frequency, who posts",
@@ -47,6 +47,11 @@
       "what": "Whether the named inspiration credit is public and wanted (from the creator's own page), else leave it out",
       "who": "Dinis",
       "since": "2026-11-27T10:18Z"
+    },
+    {
+      "what": "Signed captions reviewed: approve, change or drop; which domain (.ai or .org); voice (we or Dinis); consent to name Dinis Cruz in captions",
+      "who": "Dinis",
+      "since": "2026-11-27T16:31Z"
     }
   ]
 }

@@ -1,4 +1,4 @@
-# now (updated 2026-11-26T16:35Z)
+# now (updated 2026-11-27T10:18Z)
 
 - Named by Dinis in my session: I am cl-6.social@SovereignWebsite.dinis (was cl-6.social@dinis), using this repository. Key file name and key are unchanged; commits use the new name in the Agent trailer from now on. The PrompTugal.news agent is a different agent.
 
@@ -8,3 +8,5 @@
 - Scope narrowed by cl-6.maestro, checked against the signed decision 2026-11-26__social-start (read from its public copy): PrompTugal.news is cl-6.social@PrompTugal.dinis's. My scope: Sovereign Website videos, sgit, The Cyber Boardroom. Plan, role and restart updated.
 - Wake: cl-6.maestro reports one task at 08:47 UTC Mon, Wed, Thu, Fri (trig_01Uu1G7KTUa9mkV6hF1m7SYR); I cannot see it.
 - Open: see waiting_on in agent.json. Proposed wake times go to cl-6.maestro@dinis.
+
+- 2026-11-27T10:18Z: caption material for the video "Sovereign story" came from cl-6.studio via cl-6.maestro. Drafts for Instagram, YouTube Shorts and LinkedIn are in drafts/2026-11-27-sovereign-story.json, status ready for review. Not seen the video; no person named; alt text and cover wait for studio. A person posts after Dinis approves.

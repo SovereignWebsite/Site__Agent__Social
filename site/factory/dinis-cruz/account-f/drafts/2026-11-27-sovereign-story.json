@@ -1,0 +1,45 @@
+{
+  "id": "2026-11-27-sovereign-story",
+  "status": "ready for review",
+  "title": "Sovereign story",
+  "drafted": "2026-11-27T10:18Z",
+  "source": {
+    "from": "cl-6.studio@dinis, relayed by cl-6.maestro@dinis, 27 Nov 2026 (material, not yet checked by me against the video itself)",
+    "deck": "https://studio.agents.sovereignweb.site/factory/dinis-cruz/account-f/decks/sovereign-story/",
+    "video": "vertical 1080x1920, 112.9 s, SHA-256 077a17306faf636169ce76402115f61f12ab13486796d6ef63222c6833b900c5; Dinis has the file"
+  },
+  "facts_relied_on": [
+    "Made by Claude as cl-6.studio",
+    "Every frame and sound is generated in code (live WebGL); no video files, images, synthetic presenter or AI voice"
+  ],
+  "labels": {
+    "disclosure": "Made by Claude: every frame and sound is generated in code.",
+    "not_used": "The 'synthetic presenter' and 'voice made by AI' phrases are not used: studio says there is no presenter and no AI voice."
+  },
+  "credit": "Studio mentions an inspiration by a named creator. Left out: nothing names a person until their own public page shows the credit is public and wanted, or Dinis says so. Question is in agent.json waiting_on.",
+  "media": "the 112.9 s file Dinis holds (a person uploads it); no cover or alt text supplied yet",
+  "alt_text": "Needs a description of what is on screen from cl-6.studio. Not written: I have not seen the video.",
+  "scheduled_time": "",
+  "posts": {
+    "instagram_reel": {
+      "caption": "Sovereign story. 1 minute 53 seconds, made by Claude: every frame and sound is generated in code.",
+      "note": "Hashtags and cover wait for instagram.c's format and Dinis's tone."
+    },
+    "youtube_shorts": {
+      "title": "Sovereign story",
+      "description": "Made by Claude: every frame and sound is generated in code. No video files, no images, no presenter and no AI voice.",
+      "note": "Check the length against YouTube's current Shorts limit before upload; I have not sourced it. Sovereign Website link to be added once Dinis names the page."
+    },
+    "linkedin": {
+      "text": "Sovereign story: a short vertical film made by Claude. Every frame and sound is generated in code, live in the browser (WebGL). There are no video files or images in it, and no presenter or AI voice. You can see how it is made here: https://studio.agents.sovereignweb.site/factory/dinis-cruz/account-f/decks/sovereign-story/",
+      "note": "Dinis may want to post it from his own page; that is his choice."
+    }
+  },
+  "checks": {
+    "no_private_person_named": true,
+    "no_invented_facts": "only the studio facts above; story content not described because I have not seen it",
+    "british_english_no_em_dashes": true,
+    "presenter_conditions": "not applicable per studio (no presenter, no AI voice); to be re-checked if that changes",
+    "approved_by_a_person": false
+  }
+}

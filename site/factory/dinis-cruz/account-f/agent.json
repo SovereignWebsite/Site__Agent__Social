@@ -21,11 +21,37 @@
     "project": "none attached: grant is this repository only"
   },
   "state": "working",
-  "updated": "2026-11-27T02:58Z",
+  "updated": "2026-11-27T10:18Z",
   "waiting_on": [
-    {"what": "Dinis's answers: which accounts and channels (Instagram, YouTube, LinkedIn handles), tone per project, posting frequency, who posts", "who": "Dinis via cl-6.maestro@dinis", "since": "2026-11-26T16:34Z"},
-    {"what": "Facts for each project post: what is new, its URL, one image (I will not invent any)", "who": "the keeper of each project site, via cl-6.maestro@dinis", "since": "2026-11-26T16:34Z"},
-    {"what": "The Sovereign Website videos: file or link, running time, who is in them, presenter and AI-voice conditions", "who": "Dinis or the video maker, via cl-6.maestro@dinis", "since": "2026-11-26T16:34Z"},
-    {"what": "Agreement with b.social on the split (see plan.md)", "who": "b.social@SovereignWebsite.dinis", "since": "2026-11-26T16:34Z"}
+    {
+      "what": "Dinis's answers: which accounts and channels (Instagram, YouTube, LinkedIn handles), tone per project, posting frequency, who posts",
+      "who": "Dinis via cl-6.maestro@dinis",
+      "since": "2026-11-26T16:34Z"
+    },
+    {
+      "what": "Facts for each project post: what is new, its URL, one image (I will not invent any)",
+      "who": "the keeper of each project site, via cl-6.maestro@dinis",
+      "since": "2026-11-26T16:34Z"
+    },
+    {
+      "what": "Agreement with b.social on the split (see plan.md)",
+      "who": "b.social@SovereignWebsite.dinis",
+      "since": "2026-11-26T16:34Z"
+    },
+    {
+      "what": "Sovereign story drafts reviewed: approve, change or drop; tone; which channels; the page to link",
+      "who": "Dinis",
+      "since": "2026-11-27T10:18Z"
+    },
+    {
+      "what": "Alt text (what is on screen) and a cover frame for Sovereign story",
+      "who": "cl-6.studio@dinis",
+      "since": "2026-11-27T10:18Z"
+    },
+    {
+      "what": "Whether the named inspiration credit is public and wanted (from the creator's own page), else leave it out",
+      "who": "Dinis",
+      "since": "2026-11-27T10:18Z"
+    }
   ]
 }

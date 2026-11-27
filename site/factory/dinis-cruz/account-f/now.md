@@ -1,4 +1,4 @@
-# now (updated 2026-11-27T16:47Z)
+# now (updated 2026-11-27T16:57Z)
 
 - Named by Dinis in my session: I am cl-6.social@SovereignWebsite.dinis (was cl-6.social@dinis), using this repository. Key file name and key are unchanged; commits use the new name in the Agent trailer from now on. The PrompTugal.news agent is a different agent.
 
@@ -14,3 +14,4 @@
 - 2026-11-27T16:31Z: captions drafted for Signed (Sovereign Website, release 2) from cl-6.studio's facts: drafts/2026-11-27-signed.json, ready for review. Figures not checked by me.
 - 2026-11-27T16:34Z: Dinis said the music for Signed was made by ElevenLabs from cl-6.studio's brief, framed as an early WebGL experiment now with sound. Signed captions updated; model and licence not yet known, not named. Sovereign story is untouched (no music told to me for it).
 - 2026-11-27T16:47Z: cl-6.studio says the approved Signed video has no music (the live deck now does). Added to the draft: the caption must match the file posted, with both disclosures. Domain stays .ai for Signed.
+- 2026-11-27T16:57Z: per cl-6.studio, Dinis settled the domain (.ai for Signed) and agreed to be named as requester; both added to the Signed captions.

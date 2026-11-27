@@ -1,6 +1,6 @@
 {
   "id": "2026-11-27-signed",
-  "status": "ready for review",
+  "status": "ready for review (music added; waiting for the final file details)",
   "title": "Signed (Sovereign Website, release 2)",
   "drafted": "2026-11-27T16:31Z",
   "source": {
@@ -16,33 +16,35 @@
     "Five things no agent here may do, from the site's policy/abp.json: push to main; print, commit or read a private key or token; name a private person without consent; invent a fact, a price or a customer; add a server, cookies or tracking",
     "Data taken 2026-11-27 at 03:38 UTC",
     "Made by Claude (Anthropic) as cl-6.studio for Sovereign Website at Dinis Cruz's request; design reviewed by a second Claude agent",
-    "Drawn live with WebGL; every sound made in code; no video files, images, synthetic presenter or AI voice"
+    "Drawn live with WebGL; every frame and the sound effects made in code; no video files, images, synthetic presenter or voice; background music added later by ElevenLabs (see music)"
   ],
   "labels": {
-    "disclosure": "Made by Claude: every frame and sound is generated in code.",
-    "not_used": "No 'synthetic presenter' or 'voice made by AI' phrase: studio says there is neither."
+    "disclosure": "Made by Claude: every frame and the sound effects are generated in code. The music was made by AI (ElevenLabs).",
+    "not_used": "No 'synthetic presenter' or 'voice made by AI': there is no presenter and no voice or lyrics. The earlier line 'every sound is generated in code' is no longer true and is not used."
   },
   "alt_text": "An animated presentation drawn live in code, with no people in it. A title card reads Signed: this website, told from its own history, sovereignwebsite.ai. 861 coloured boxes, one per file of the website, pack into a block, then sort into stacks by kind. 61 glowing beads on a timeline stand for the site's changes, and threads of light join each one to the key of the agent that signed it. A current of light flows around five glowing rings, each holding a rule the site's agents must keep. A plain white slide asks: Who holds the keys? You do. Credits list who made it and the sources of every fact.",
   "alt_text_note": "Studio's text unchanged.",
   "scheduled_time": "",
   "posts": {
     "instagram_reel": {
-      "caption": "Signed. This website, told from its own history. 861 files, 61 changes, and every change that names its agent carries that agent's signature. Made by Claude: every frame and sound is generated in code. Data taken 27 Nov 2026.",
+      "caption": "Signed. This website, told from its own history. 861 files, 61 changes, and every change that names its agent carries that agent's signature. An early experiment in WebGL, now with sound. Made by Claude: every frame and the sound effects are generated in code; the music was made by AI (ElevenLabs) from a written brief. Data taken 27 Nov 2026.",
       "note": "Hashtags wait for instagram.c's format and Dinis's tone."
     },
     "youtube_shorts": {
       "title": "Signed: this website, told from its own history",
-      "description": "Sovereign Website, release 2. The site is a folder of 861 files; 61 commits between 22 and 27 Nov 2026, and the 55 that name their agent all carry that agent's signature. Five things no agent here may do. Made by Claude: every frame and sound is generated in code. No video files, no images, no presenter and no AI voice. Live deck: https://studio.agents.sovereignweb.site/factory/dinis-cruz/account-f/decks/signed/ All releases: https://studio.agents.sovereignweb.site/factory/dinis-cruz/account-f/releases/",
+      "description": "Sovereign Website, release 2. The site is a folder of 861 files; 61 commits between 22 and 27 Nov 2026, and the 55 that name their agent all carry that agent's signature. Five things no agent here may do. An early experiment in WebGL, now with sound. Made by Claude: every frame and the sound effects are generated in code; the music was made by AI (ElevenLabs) from a written brief. No video files, no images and no presenter. Live deck: https://studio.agents.sovereignweb.site/factory/dinis-cruz/account-f/decks/signed/ All releases: https://studio.agents.sovereignweb.site/factory/dinis-cruz/account-f/releases/",
       "note": "Length is 97.0 s; check against YouTube's current Shorts limit before upload (not sourced by me)."
     },
     "linkedin": {
-      "text": "Signed. We made a short film of this website told from its own history. The site is a folder of 861 files, served as they are. Between 22 and 27 November 2026 it had 61 commits on its dev branch; the 55 that name their agent all carry that agent's signature, and the other 6 are automated set-up commits. The film also shows five things no agent here may do, from the site's own policy file. Made by Claude as cl-6.studio for Sovereign Website at Dinis Cruz's request: every frame and sound is generated in code, with no presenter and no AI voice. Live deck: https://studio.agents.sovereignweb.site/factory/dinis-cruz/account-f/decks/signed/",
+      "text": "Signed. We made a short film of this website told from its own history. The site is a folder of 861 files, served as they are. Between 22 and 27 November 2026 it had 61 commits on its dev branch; the 55 that name their agent all carry that agent's signature, and the other 6 are automated set-up commits. The film also shows five things no agent here may do, from the site's own policy file. Made by Claude as cl-6.studio for Sovereign Website at Dinis Cruz's request: every frame and the sound effects are generated in code, with no presenter. It is an early experiment in WebGL, now with sound: the music was made by AI (ElevenLabs) from a written brief. Live deck: https://studio.agents.sovereignweb.site/factory/dinis-cruz/account-f/decks/signed/",
       "note": "Dinis may prefer to post from his own page."
     }
   },
   "open_points": [
     "The cover and alt text show sovereignwebsite.ai; the earlier video showed sovereignwebsite.org. I use neither in captions as a link; ask which is right.",
-    "Captions say 'we': change to Dinis's preferred voice."
+    "Captions say 'we': change to Dinis's preferred voice.",
+    "Music credit line to add once studio hands back the tool, model and licence: 'Music: [tool and model], made by [agent] for Sovereign Website.' I do not name a model or licence until given.",
+    "The brief says the deck runs 98.0 s; the video I was given is 97.0 s. Confirm the final file length and update the YouTube Shorts check."
   ],
   "checks": {
     "no_private_person_named": "true, apart from Dinis Cruz, named by studio as the requester (he is the one instructing; his consent to be named in captions to be confirmed)",
@@ -50,5 +52,17 @@
     "british_english_no_em_dashes": true,
     "presenter_conditions": "not applicable per studio (no presenter, no AI voice)",
     "approved_by_a_person": false
+  },
+  "music": {
+    "told_by": "Dinis, in my session, 27 Nov 2026",
+    "what": "Background music made by ElevenLabs from cl-6.studio's written brief",
+    "brief": "https://studio.agents.sovereignweb.site/factory/dinis-cruz/account-f/briefs/signed-music/",
+    "brief_says": "instrumental only, original, WAV 48 kHz stereo, 98.0 s, under the deck's own sound effects; tool, model, prompts and commercial licence terms to be handed back so the credit is true",
+    "framing_from_dinis": "an early experiment in WebGL, now with sound from another model (ElevenLabs)",
+    "missing": [
+      "the exact ElevenLabs tool and model name",
+      "the licence or terms for commercial use on Instagram, YouTube and LinkedIn",
+      "the final video file, its length and hash (the file in this draft is the version without the music)"
+    ]
   }
 }

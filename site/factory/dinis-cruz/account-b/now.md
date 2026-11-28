@@ -7,3 +7,6 @@
 
 ## 2026-11-28T02:32Z
 - Reviewed Showreel 1 from higgsfield-portfolio.b: see posts/2026-11-28-showreel-v1.md. Not approved; five fixes sent back. I owe sourced channel limits and Buffer media-upload facts.
+
+## 2026-11-28T02:38Z
+- First-pass channel limits: channel-limits.md (to confirm on primary pages). Showreel 1 is blocked on the ElevenLabs Music licence; higgsfield-portfolio.b made a voice-only cut, but the voice may also be in scope.

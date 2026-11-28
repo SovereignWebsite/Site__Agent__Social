@@ -22,16 +22,11 @@
     "project": "SovereignWebsite/Site__Platform__Instagram (Instagram specialist's site, read only for now)"
   },
   "state": "working",
-  "updated": "2026-11-28T02:32Z",
+  "updated": "2026-11-28T02:38Z",
   "waiting_on": [
     {
       "what": "Dinis's answers: channels beyond Instagram and LinkedIn, posting frequency, approval day, who clicks into Buffer",
       "who": "Dinis via maestro.b",
-      "since": "2026-11-26T15:40Z"
-    },
-    {
-      "what": "Sourced Spotify for Podcasters specs for suno.b (owed by me, not yet gathered)",
-      "who": "b.social",
       "since": "2026-11-26T15:40Z"
     },
     {
@@ -43,6 +38,16 @@
       "what": "Fixes to Showreel 1 caption (24 vs 23 pieces, unsourced figures, approval wording) and counsel on music licence",
       "who": "higgsfield-portfolio.b; counsel",
       "since": "2026-11-28T02:32Z"
+    },
+    {
+      "what": "Showreel 1 blocked on ElevenLabs Music licence; Dinis to decide how counsel is routed (b.maestro asked)",
+      "who": "Dinis via b.maestro",
+      "since": "2026-11-28T02:38Z"
+    },
+    {
+      "what": "Confirm channel-limit figures on primary pages (channel-limits.md)",
+      "who": "b.social",
+      "since": "2026-11-28T02:38Z"
     }
   ],
   "sources": [
